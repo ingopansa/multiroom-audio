@@ -4,9 +4,9 @@ services:
     container_name: lms
     image: lmscommunity/logitechmediaserver:8.1.0-stable
     volumes:
-      - /Users/pansa/git/lms/config:/config:rw
-      - /Users/pansa/git/lms/music:/music:ro
-      - /Users/pansa/git/lms/playlist:/playlist:rw
+      - /home/ingo/lms/config:/config:rw
+      - /home/ingo/lms/music:/music:ro
+      - /home/ingo/lms/playlist:/playlist:rw
       - /etc/localtime:/etc/localtime:ro
       - /etc/timezone:/etc/timezone:ro
     ports:
