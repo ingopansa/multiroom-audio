@@ -5,7 +5,7 @@ services:
     image: lmscommunity/logitechmediaserver:8.1.0-stable
     volumes:
       - /opt/lms/config:/config:rw
-      - /opt/lms/music:/music:ro
+      - /opt/lms/music:/music:rw
       - /opt/lms/playlist:/playlist:rw
       - /etc/localtime:/etc/localtime:ro
       - /etc/timezone:/etc/timezone:ro
