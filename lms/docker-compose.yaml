@@ -8,9 +8,9 @@ services:
       - /Users/pansa/git/lms/music:/music:ro
       - /Users/pansa/git/lms/playlist:/playlist:rw
       - /etc/localtime:/etc/localtime:ro
-      # - /etc/timezone:/etc/timezone:ro
+      - /etc/timezone:/etc/timezone:ro
     ports:
-      - 9000:9000/tcp
+      - 9001:9000/tcp
       - 9090:9090/tcp
       - 3483:3483/tcp
       - 3483:3483/udp
