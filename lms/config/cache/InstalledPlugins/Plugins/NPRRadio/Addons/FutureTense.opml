@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.0">
-  <head title="APM Future Tense podcasts">
-    <expansionState></expansionState>
-  </head>
-  <body>
-      <outline URL="http://www.publicradio.org/columns/futuretense/rss.xml" text="Future Tense podcasts" type="podcast" />
-  </body>
-</opml>

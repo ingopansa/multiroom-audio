@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.0">
-  <head title="MarketPlace After the Bell podcasts">
-    <expansionState></expansionState>
-  </head>
-  <body>
-      <outline URL="http://marketplace.publicradio.org/RSS/after_the_bell.xml" icon="http://americanpublicmedia.publicradio.org/standard/images/apm001/podcast/itunes_mkp_bell_75.jpg" text="MarketPlace After the Bell podcasts" type="podcast" />
-  </body>
-</opml>
