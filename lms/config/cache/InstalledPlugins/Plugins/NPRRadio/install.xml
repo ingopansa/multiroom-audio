@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<extension>
+	<name>PLUGIN_NPRRADIO</name>
+	<module>Plugins::NPRRadio::Plugin</module>
+	<playerMenu>RADIO</playerMenu>
+	<version>1.03</version>
+	<description>PLUGIN_NPRRADIO_DESC</description>
+	<creator>bpa</creator>
+	<defaultState>enabled</defaultState>
+	<optionsURL>plugins/NPRRadio/settings/basic.html</optionsURL>
+	<icon>plugins/NPRRadio/html/images/nprradio.png</icon>
+	<type>2</type><!-- type=extension -->
+	<targetApplication>
+		<id>SlimServer</id>
+		<minVersion>7.3</minVersion>
+        <maxVersion>7.*</maxVersion>
+	</targetApplication>
+</extension>

@@ -1,0 +1,53 @@
+---
+_client:172.19.0.1:
+  _version: 0
+_client:ac:de:48:00:11:22:
+  _ts_account: 1609321108
+  _ts_enableSpotifyConnect: 1609321116
+  _ts_replaygain: 1609321210
+  _version: 0
+  account: 04eeaca1
+  enableSpotifyConnect: 0
+  replaygain: 0
+_client:b8:27:eb:28:52:d5:
+  _ts_account: 1609324162
+  _ts_replaygain: 1609324607
+  _version: 0
+  account: 04eeaca1
+  replaygain: 0
+_ts_accountSwitcherMenu: 1609321116
+_ts_bitrate: 1609321063
+_ts_checkDaemonConnected: 1609321116
+_ts_cleanupTags: 1609321116
+_ts_country: 1609321304
+_ts_disableAsyncTokenRefresh: 1609321116
+_ts_disableDiscovery: 1609321116
+_ts_displayNames: 1609324501
+_ts_dontImportAccounts: 1609321116
+_ts_helper: 1609321063
+_ts_iconCode: 1609321063
+_ts_myAlbumsOnly: 1609321116
+_ts_optimizePreBuffer: 1609321116
+_ts_spotify_recent_search: 1609325159
+_ts_tracksSincePurge: 1609325034
+_ts_webTokens: 1609321063
+_version: 2
+accountSwitcherMenu: ~
+bitrate: 320
+checkDaemonConnected: ~
+cleanupTags: on
+country: DE
+disableAsyncTokenRefresh: ~
+disableDiscovery: ~
+displayNames:
+  '1128644750': Ingo Pansa
+dontImportAccounts:
+  04eeaca1: '0'
+helper: ''
+iconCode: 93aac68fb06348598c1e67734dfaceee
+myAlbumsOnly: ~
+optimizePreBuffer: ~
+spotify_recent_search:
+- marek
+tracksSincePurge: 5
+webTokens: {}

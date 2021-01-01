@@ -1,0 +1,22 @@
+---
+_ts_autorun: 1609325982
+_ts_autosave: 1609321062
+_ts_bin: 1609326074
+_ts_configfile: 1609321062
+_ts_debugs: 1609326051
+_ts_eraselog: 1609321062
+_ts_logging: 1609321062
+_ts_opts: 1609321062
+_ts_profilesURL: 1609321062
+_ts_useLMSsocket: 1609326245
+_version: 0
+autorun: 1
+autosave: 1
+bin: squeeze2raop-x86-64-static
+configfile: raopbridge.xml
+debugs: all
+eraselog: 0
+logging: 0
+opts: ''
+profilesURL: ~
+useLMSsocket: 0

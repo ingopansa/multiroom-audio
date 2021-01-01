@@ -1,0 +1,879 @@
+---
+Squeezebox-expandPlayerControl: 'true'
+Squeezebox-expanded-FAVORITES: '1'
+Squeezebox-expanded-MY_MUSIC: '0'
+Squeezebox-expanded-PLUGINS: '1'
+Squeezebox-expanded-PLUGIN_MY_APPS_MODULE_NAME: '1'
+Squeezebox-expanded-RADIO: '1'
+_client:02:42:ac:11:00:02:
+  _ts_alarmDefaultVolume: 1609325850
+  _ts_alarmSnoozeSeconds: 1609325850
+  _ts_alarmTimeoutSeconds: 1609325850
+  _ts_alarmfadeseconds: 1609325850
+  _ts_alarms: 1609325850
+  _ts_alarmsEnabled: 1609325850
+  _ts_alarmsaver: 1609325850
+  _ts_alwaysShowCount: 1609325850
+  _ts_bass: 1609325850
+  _ts_bufferThreshold: 1609325850
+  _ts_digitalVolumeControl: 1609325850
+  _ts_disableDac: 1609325850
+  _ts_disabledirsets: 1609325850
+  _ts_fadeInDuration: 1609325850
+  _ts_idleBrightness: 1609325850
+  _ts_idlesaver: 1609325850
+  _ts_irmap: 1609325850
+  _ts_lameQuality: 1609325850
+  _ts_maintainSync: 1609325850
+  _ts_maxBitrate: 1609325850
+  _ts_menuItem: 1609325850
+  _ts_minSyncAdjust: 1609325850
+  _ts_mp3SilencePrelude: 1609325850
+  _ts_offsaver: 1609325850
+  _ts_outputChannels: 1609325850
+  _ts_packetLatency: 1609325850
+  _ts_pitch: 1609325850
+  _ts_playDelay: 1609325850
+  _ts_playername: 1609325867
+  _ts_playtrackalbum: 1609325850
+  _ts_power: 1609325850
+  _ts_powerOnResume: 1609325850
+  _ts_preampVolumeControl: 1609325850
+  _ts_presets: 1609325850
+  _ts_remoteReplayGain: 1609325850
+  _ts_repeat: 1609325850
+  _ts_replayGainMode: 1609325850
+  _ts_screensaver: 1609325850
+  _ts_screensavertimeout: 1609325850
+  _ts_scrollMode: 1609325850
+  _ts_scrollPause: 1609325850
+  _ts_scrollPauseDouble: 1609325850
+  _ts_scrollPixels: 1609325850
+  _ts_scrollPixelsDouble: 1609325850
+  _ts_scrollRate: 1609325850
+  _ts_scrollRateDouble: 1609325850
+  _ts_shuffle: 1609325850
+  _ts_snLastSyncDown: 1609325850
+  _ts_snLastSyncUp: 1609325850
+  _ts_snSyncInterval: 1609325850
+  _ts_startDelay: 1609325850
+  _ts_syncPower: 1609325850
+  _ts_syncVolume: 1609325850
+  _ts_titleFormat: 1609325850
+  _ts_titleFormatCurr: 1609325850
+  _ts_transitionDuration: 1609325850
+  _ts_transitionSmart: 1609325850
+  _ts_transitionType: 1609325850
+  _ts_treble: 1609325850
+  _ts_volume: 1609325850
+  _version: 14
+  alarmDefaultVolume: 50
+  alarmSnoozeSeconds: 540
+  alarmTimeoutSeconds: 3600
+  alarmfadeseconds: 1
+  alarms: {}
+  alarmsEnabled: 1
+  alarmsaver: SCREENSAVER.datetime
+  alwaysShowCount: 1
+  bass: 50
+  bufferThreshold: 255
+  digitalVolumeControl: 1
+  disableDac: 0
+  disabledirsets: []
+  fadeInDuration: 0
+  idleBrightness: 1
+  idlesaver: nosaver
+  irmap: /lms/IR/Default.map
+  lameQuality: 9
+  maintainSync: 1
+  maxBitrate: ~
+  menuItem:
+  - NOW_PLAYING
+  - BROWSE_MUSIC
+  - RADIO
+  - PLUGIN_MY_APPS_MODULE_NAME
+  - PLUGIN_APP_GALLERY_MODULE_NAME
+  - FAVORITES
+  - GLOBAL_SEARCH
+  - PLUGINS
+  - SETTINGS
+  - SQUEEZENETWORK_CONNECT
+  minSyncAdjust: 10
+  mp3SilencePrelude: 0
+  offsaver: SCREENSAVER.datetime
+  outputChannels: 0
+  packetLatency: 2
+  pitch: 100
+  playDelay: 0
+  playername: ps3
+  playtrackalbum: 1
+  power: 1
+  powerOnResume: PauseOff-PlayOn
+  preampVolumeControl: 0
+  presets:
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  remoteReplayGain: -5
+  repeat: 0
+  replayGainMode: 0
+  screensaver: screensaver
+  screensavertimeout: 30
+  scrollMode: 0
+  scrollPause: 3.6
+  scrollPauseDouble: 3.6
+  scrollPixels: 2
+  scrollPixelsDouble: 3
+  scrollRate: 0.033
+  scrollRateDouble: 0.033
+  shuffle: 0
+  snLastSyncDown: -1
+  snLastSyncUp: -1
+  snSyncInterval: 30
+  startDelay: 0
+  syncPower: 0
+  syncVolume: 0
+  titleFormat:
+  - 5
+  - 1
+  - 3
+  - 6
+  - 0
+  titleFormatCurr: 4
+  transitionDuration: 10
+  transitionSmart: 1
+  transitionType: 0
+  treble: 50
+  volume: 50
+_client:172.19.0.1:
+  _ts_alarmDefaultVolume: 1609318758
+  _ts_alarmSnoozeSeconds: 1609318758
+  _ts_alarmTimeoutSeconds: 1609318758
+  _ts_alarmfadeseconds: 1609318758
+  _ts_alarms: 1609318758
+  _ts_alarmsEnabled: 1609318758
+  _ts_alwaysShowCount: 1609318758
+  _ts_currentSong: 1609319735
+  _ts_disabled_myMusicAlbumsVariousArtists: 1609321063
+  _ts_disabled_myMusicArtistsComposers: 1609321063
+  _ts_disabled_myMusicArtistsConductors: 1609321063
+  _ts_disabled_myMusicArtistsJazzComposers: 1609321063
+  _ts_disabled_myMusicFileSystem: 1609321063
+  _ts_disabled_myMusicFlopTracks: 1609321063
+  _ts_disabled_myMusicRandomAlbums: 1609321063
+  _ts_disabled_myMusicTopTracks: 1609321063
+  _ts_idleBrightness: 1609318758
+  _ts_lameQuality: 1609318758
+  _ts_maxBitrate: 1609323274
+  _ts_menuItem: 1609318758
+  _ts_playername: 1609318758
+  _ts_playtrackalbum: 1609318758
+  _ts_presets: 1609318758
+  _ts_repeat: 1609318758
+  _ts_scrollMode: 1609318758
+  _ts_scrollPause: 1609318758
+  _ts_scrollPauseDouble: 1609318758
+  _ts_scrollRate: 1609318758
+  _ts_scrollRateDouble: 1609318758
+  _ts_shuffle: 1609318758
+  _ts_titleFormat: 1609318758
+  _ts_titleFormatCurr: 1609318758
+  _ts_transcodeBitrate: 1609323274
+  _version: 14
+  alarmDefaultVolume: 50
+  alarmSnoozeSeconds: 540
+  alarmTimeoutSeconds: 3600
+  alarmfadeseconds: 1
+  alarms: {}
+  alarmsEnabled: 1
+  alwaysShowCount: 1
+  currentSong: ~
+  disabled_myMusicAlbumsVariousArtists: 0
+  disabled_myMusicArtistsComposers: 0
+  disabled_myMusicArtistsConductors: 1
+  disabled_myMusicArtistsJazzComposers: 1
+  disabled_myMusicFileSystem: 1
+  disabled_myMusicFlopTracks: 1
+  disabled_myMusicRandomAlbums: 1
+  disabled_myMusicTopTracks: 1
+  idleBrightness: 1
+  lameQuality: 9
+  maxBitrate: ~
+  menuItem:
+  - NOW_PLAYING
+  - BROWSE_MUSIC
+  - RADIO
+  - PLUGIN_MY_APPS_MODULE_NAME
+  - PLUGIN_APP_GALLERY_MODULE_NAME
+  - FAVORITES
+  - GLOBAL_SEARCH
+  - PLUGINS
+  - SETTINGS
+  - SQUEEZENETWORK_CONNECT
+  playername: Music from 172.19.0.1
+  playtrackalbum: 1
+  presets:
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  repeat: 0
+  scrollMode: 0
+  scrollPause: 3.6
+  scrollPauseDouble: 3.6
+  scrollRate: 0.033
+  scrollRateDouble: 0.033
+  shuffle: 0
+  titleFormat:
+  - 5
+  - 1
+  - 3
+  - 6
+  - 0
+  titleFormatCurr: 4
+  transcodeBitrate: ~
+_client:78:4f:43:8f:6c:ed:
+  _ts_alarms: 1609316310
+  _ts_disabled_myMusicAlbumsVariousArtists: 1609316312
+  _ts_disabled_myMusicArtistsComposers: 1609316312
+  _ts_disabled_myMusicArtistsConductors: 1609316312
+  _ts_disabled_myMusicArtistsJazzComposers: 1609316312
+  _ts_disabled_myMusicFileSystem: 1609316312
+  _ts_disabled_myMusicFlopTracks: 1609316312
+  _ts_disabled_myMusicRandomAlbums: 1609316312
+  _ts_disabled_myMusicTopTracks: 1609316312
+  _ts_menuItem: 1609316310
+  _ts_playtrackalbum: 1609316310
+  _ts_presets: 1609316310
+  _version: 14
+  alarms: {}
+  disabled_myMusicAlbumsVariousArtists: 0
+  disabled_myMusicArtistsComposers: 0
+  disabled_myMusicArtistsConductors: 1
+  disabled_myMusicArtistsJazzComposers: 1
+  disabled_myMusicFileSystem: 1
+  disabled_myMusicFlopTracks: 1
+  disabled_myMusicRandomAlbums: 1
+  disabled_myMusicTopTracks: 1
+  menuItem:
+  - NOW_PLAYING
+  - BROWSE_MUSIC
+  - RADIO
+  - PLUGIN_MY_APPS_MODULE_NAME
+  - PLUGIN_APP_GALLERY_MODULE_NAME
+  - FAVORITES
+  - GLOBAL_SEARCH
+  - PLUGINS
+  - SETTINGS
+  - SQUEEZENETWORK_CONNECT
+  playtrackalbum: 1
+  presets:
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+_client:ac:de:48:00:11:22:
+  _ts_alarmDefaultVolume: 1609320701
+  _ts_alarmSnoozeSeconds: 1609320701
+  _ts_alarmTimeoutSeconds: 1609320701
+  _ts_alarmfadeseconds: 1609320701
+  _ts_alarms: 1609320701
+  _ts_alarmsEnabled: 1609320701
+  _ts_alarmsaver: 1609320701
+  _ts_alwaysShowCount: 1609320701
+  _ts_bass: 1609320701
+  _ts_bufferThreshold: 1609320701
+  _ts_currentSong: 1609325180
+  _ts_digitalVolumeControl: 1609320701
+  _ts_disableDac: 1609320701
+  _ts_disabled_myMusicAlbumsVariousArtists: 1609321063
+  _ts_disabled_myMusicArtistsComposers: 1609321063
+  _ts_disabled_myMusicArtistsConductors: 1609321063
+  _ts_disabled_myMusicArtistsJazzComposers: 1609321063
+  _ts_disabled_myMusicFileSystem: 1609321063
+  _ts_disabled_myMusicFlopTracks: 1609321063
+  _ts_disabled_myMusicRandomAlbums: 1609321063
+  _ts_disabled_myMusicTopTracks: 1609321063
+  _ts_disabledirsets: 1609320701
+  _ts_fadeInDuration: 1609320701
+  _ts_idleBrightness: 1609320701
+  _ts_idlesaver: 1609320701
+  _ts_irmap: 1609320701
+  _ts_lameQuality: 1609320701
+  _ts_maintainSync: 1609320701
+  _ts_maxBitrate: 1609324500
+  _ts_menuItem: 1609320701
+  _ts_minSyncAdjust: 1609320701
+  _ts_mp3SilencePrelude: 1609320701
+  _ts_offsaver: 1609320701
+  _ts_outputChannels: 1609320701
+  _ts_packetLatency: 1609320701
+  _ts_pitch: 1609320701
+  _ts_playDelay: 1609320701
+  _ts_playername: 1609327386
+  _ts_playingAtPowerOff: 1609322021
+  _ts_playtrackalbum: 1609320701
+  _ts_power: 1609324637
+  _ts_powerOnResume: 1609320701
+  _ts_preampVolumeControl: 1609320701
+  _ts_presets: 1609320701
+  _ts_remoteReplayGain: 1609320701
+  _ts_repeat: 1609320701
+  _ts_replayGainMode: 1609320701
+  _ts_screensaver: 1609320701
+  _ts_screensavertimeout: 1609320701
+  _ts_scrollMode: 1609320701
+  _ts_scrollPause: 1609320701
+  _ts_scrollPauseDouble: 1609320701
+  _ts_scrollPixels: 1609320701
+  _ts_scrollPixelsDouble: 1609320701
+  _ts_scrollRate: 1609320701
+  _ts_scrollRateDouble: 1609320701
+  _ts_shuffle: 1609320701
+  _ts_snLastSyncDown: 1609320701
+  _ts_snLastSyncUp: 1609320701
+  _ts_snSyncInterval: 1609320701
+  _ts_startDelay: 1609320701
+  _ts_syncPower: 1609320701
+  _ts_syncVolume: 1609320701
+  _ts_titleFormat: 1609320701
+  _ts_titleFormatCurr: 1609320701
+  _ts_transcodeBitrate: 1609321748
+  _ts_transitionDuration: 1609320701
+  _ts_transitionSmart: 1609320701
+  _ts_transitionType: 1609320701
+  _ts_treble: 1609320701
+  _ts_volume: 1609325202
+  _version: 14
+  alarmDefaultVolume: 50
+  alarmSnoozeSeconds: 540
+  alarmTimeoutSeconds: 3600
+  alarmfadeseconds: 1
+  alarms: {}
+  alarmsEnabled: 1
+  alarmsaver: SCREENSAVER.datetime
+  alwaysShowCount: 1
+  bass: 50
+  bufferThreshold: 255
+  currentSong: 0
+  digitalVolumeControl: 1
+  disableDac: 0
+  disabled_myMusicAlbumsVariousArtists: 0
+  disabled_myMusicArtistsComposers: 0
+  disabled_myMusicArtistsConductors: 1
+  disabled_myMusicArtistsJazzComposers: 1
+  disabled_myMusicFileSystem: 1
+  disabled_myMusicFlopTracks: 1
+  disabled_myMusicRandomAlbums: 1
+  disabled_myMusicTopTracks: 1
+  disabledirsets: []
+  fadeInDuration: 0
+  idleBrightness: 1
+  idlesaver: nosaver
+  irmap: /lms/IR/Default.map
+  lameQuality: 9
+  maintainSync: 1
+  maxBitrate: ~
+  menuItem:
+  - NOW_PLAYING
+  - BROWSE_MUSIC
+  - RADIO
+  - PLUGIN_MY_APPS_MODULE_NAME
+  - PLUGIN_APP_GALLERY_MODULE_NAME
+  - FAVORITES
+  - GLOBAL_SEARCH
+  - PLUGINS
+  - SETTINGS
+  - SQUEEZENETWORK_CONNECT
+  minSyncAdjust: 10
+  mp3SilencePrelude: 0
+  offsaver: SCREENSAVER.datetime
+  outputChannels: 0
+  packetLatency: 2
+  pitch: 100
+  playDelay: 0
+  playername: xXx
+  playingAtPowerOff: 1
+  playtrackalbum: 1
+  power: 1
+  powerOnResume: PauseOff-PlayOn
+  preampVolumeControl: 0
+  presets:
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  remoteReplayGain: -5
+  repeat: 0
+  replayGainMode: 0
+  screensaver: screensaver
+  screensavertimeout: 30
+  scrollMode: 0
+  scrollPause: 3.6
+  scrollPauseDouble: 3.6
+  scrollPixels: 2
+  scrollPixelsDouble: 3
+  scrollRate: 0.033
+  scrollRateDouble: 0.033
+  shuffle: 0
+  snLastSyncDown: -1
+  snLastSyncUp: -1
+  snSyncInterval: 30
+  startDelay: 0
+  syncPower: 0
+  syncVolume: 0
+  titleFormat:
+  - 5
+  - 1
+  - 3
+  - 6
+  - 0
+  titleFormatCurr: 4
+  transcodeBitrate: ~
+  transitionDuration: 10
+  transitionSmart: 1
+  transitionType: 0
+  treble: 50
+  volume: 20
+_client:b8:27:eb:28:52:d5:
+  _ts_alarmDefaultVolume: 1609323842
+  _ts_alarmSnoozeSeconds: 1609323842
+  _ts_alarmTimeoutSeconds: 1609323842
+  _ts_alarmfadeseconds: 1609323842
+  _ts_alarms: 1609323842
+  _ts_alarmsEnabled: 1609323842
+  _ts_alarmsaver: 1609323842
+  _ts_alwaysShowCount: 1609323842
+  _ts_bass: 1609323842
+  _ts_bufferThreshold: 1609323842
+  _ts_currentSong: 1609325934
+  _ts_digitalVolumeControl: 1609323842
+  _ts_disableDac: 1609323842
+  _ts_disabledirsets: 1609323842
+  _ts_fadeInDuration: 1609323842
+  _ts_idleBrightness: 1609323842
+  _ts_idlesaver: 1609323842
+  _ts_irmap: 1609323842
+  _ts_lameQuality: 1609323842
+  _ts_maintainSync: 1609323842
+  _ts_maxBitrate: 1609323842
+  _ts_menuItem: 1609323842
+  _ts_minSyncAdjust: 1609323842
+  _ts_mp3SilencePrelude: 1609323842
+  _ts_offsaver: 1609323842
+  _ts_outputChannels: 1609323842
+  _ts_packetLatency: 1609323842
+  _ts_pitch: 1609323842
+  _ts_playDelay: 1609323842
+  _ts_playername: 1609324024
+  _ts_playingAtPowerOff: 1609325012
+  _ts_playtrackalbum: 1609323842
+  _ts_power: 1609325069
+  _ts_powerOnResume: 1609323842
+  _ts_preampVolumeControl: 1609323842
+  _ts_presets: 1609323842
+  _ts_remoteReplayGain: 1609323842
+  _ts_repeat: 1609323842
+  _ts_replayGainMode: 1609323842
+  _ts_screensaver: 1609323842
+  _ts_screensavertimeout: 1609323842
+  _ts_scrollMode: 1609323842
+  _ts_scrollPause: 1609323842
+  _ts_scrollPauseDouble: 1609323842
+  _ts_scrollPixels: 1609323842
+  _ts_scrollPixelsDouble: 1609323842
+  _ts_scrollRate: 1609323842
+  _ts_scrollRateDouble: 1609323842
+  _ts_shuffle: 1609323842
+  _ts_snLastSyncDown: 1609323842
+  _ts_snLastSyncUp: 1609323842
+  _ts_snSyncInterval: 1609323842
+  _ts_startDelay: 1609323842
+  _ts_syncPower: 1609323842
+  _ts_syncVolume: 1609323842
+  _ts_syncgroupid: 1609325034
+  _ts_titleFormat: 1609323842
+  _ts_titleFormatCurr: 1609323842
+  _ts_transitionDuration: 1609323842
+  _ts_transitionSmart: 1609323842
+  _ts_transitionType: 1609323842
+  _ts_treble: 1609323842
+  _ts_volume: 1609324556
+  _version: 14
+  alarmDefaultVolume: 50
+  alarmSnoozeSeconds: 540
+  alarmTimeoutSeconds: 3600
+  alarmfadeseconds: 1
+  alarms: {}
+  alarmsEnabled: 1
+  alarmsaver: SCREENSAVER.datetime
+  alwaysShowCount: 1
+  bass: 50
+  bufferThreshold: 255
+  currentSong: ~
+  digitalVolumeControl: 1
+  disableDac: 0
+  disabledirsets: []
+  fadeInDuration: 0
+  idleBrightness: 1
+  idlesaver: nosaver
+  irmap: /lms/IR/Default.map
+  lameQuality: 9
+  maintainSync: 1
+  maxBitrate: ~
+  menuItem:
+  - NOW_PLAYING
+  - BROWSE_MUSIC
+  - RADIO
+  - PLUGIN_MY_APPS_MODULE_NAME
+  - PLUGIN_APP_GALLERY_MODULE_NAME
+  - FAVORITES
+  - GLOBAL_SEARCH
+  - PLUGINS
+  - SETTINGS
+  - SQUEEZENETWORK_CONNECT
+  minSyncAdjust: 10
+  mp3SilencePrelude: 0
+  offsaver: SCREENSAVER.datetime
+  outputChannels: 0
+  packetLatency: 2
+  pitch: 100
+  playDelay: 0
+  playername: pilite1
+  playingAtPowerOff: 0
+  playtrackalbum: 1
+  power: 1
+  powerOnResume: PauseOff-PlayOn
+  preampVolumeControl: 0
+  presets:
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  remoteReplayGain: -5
+  repeat: 0
+  replayGainMode: 0
+  screensaver: screensaver
+  screensavertimeout: 30
+  scrollMode: 0
+  scrollPause: 3.6
+  scrollPauseDouble: 3.6
+  scrollPixels: 2
+  scrollPixelsDouble: 3
+  scrollRate: 0.033
+  scrollRateDouble: 0.033
+  shuffle: 0
+  snLastSyncDown: -1
+  snLastSyncUp: -1
+  snSyncInterval: 30
+  startDelay: 0
+  syncPower: 0
+  syncVolume: 0
+  syncgroupid: 384135564
+  titleFormat:
+  - 5
+  - 1
+  - 3
+  - 6
+  - 0
+  titleFormatCurr: 4
+  transitionDuration: 10
+  transitionSmart: 1
+  transitionType: 0
+  treble: 50
+  volume: 31
+_ts_Squeezebox-expandPlayerControl: 1609316305
+_ts_Squeezebox-expanded-FAVORITES: 1609321313
+_ts_Squeezebox-expanded-MY_MUSIC: 1609318819
+_ts_Squeezebox-expanded-PLUGINS: 1609316305
+_ts_Squeezebox-expanded-PLUGIN_MY_APPS_MODULE_NAME: 1609316305
+_ts_Squeezebox-expanded-RADIO: 1609316305
+_ts_allowedHosts: 1609316300
+_ts_artfolder: 1609316300
+_ts_authorize: 1609316300
+_ts_autoDownloadUpdate: 1609316335
+_ts_autorescan: 1609316300
+_ts_autorescan_stat_interval: 1609316300
+_ts_bandInArtists: 1609316300
+_ts_bindAddress: 1609316300
+_ts_browseagelimit: 1609316300
+_ts_bufferSecs: 1609316300
+_ts_cachedir: 1609316300
+_ts_checkVersion: 1609316300
+_ts_checkVersionInterval: 1609316300
+_ts_checkVersionLastTime: 1609316335
+_ts_composerInArtists: 1609316300
+_ts_conductorInArtists: 1609316300
+_ts_coverArt: 1609316300
+_ts_csrfProtectionLevel: 1609316300
+_ts_customArtSpecs: 1609324826
+_ts_dbhighmem: 1609316300
+_ts_dbjournalsize: 1609316300
+_ts_dbpassword: 1609316300
+_ts_dbsource: 1609316301
+_ts_dbusername: 1609316300
+_ts_defeatDestructiveTouchToPlay: 1609316300
+_ts_disableStatistics: 1609316300
+_ts_disabledextensionsaudio: 1609316300
+_ts_disabledextensionsimages: 1609316300
+_ts_disabledextensionsplaylist: 1609316300
+_ts_disabledextensionsvideo: 1609316300
+_ts_disabledformats: 1609316300
+_ts_displaytexttimeout: 1609316300
+_ts_dontTriggerScanOnPrefChange: 1609316300
+_ts_filterHosts: 1609316300
+_ts_groupdiscs: 1609316300
+_ts_guessFileFormats: 1609316300
+_ts_httpport: 1609316300
+_ts_ignoreDirRE: 1609316300
+_ts_ignoreInAudioScan: 1609316300
+_ts_ignoreInImageScan: 1609316300
+_ts_ignoreInVideoScan: 1609316300
+_ts_ignoredarticles: 1609316300
+_ts_insecureHTTPS: 1609316300
+_ts_itemsPerPage: 1609316300
+_ts_jivealbumsort: 1609316300
+_ts_language: 1609316300
+_ts_librarycachedir: 1609316300
+_ts_libraryname: 1609321037
+_ts_longdateFormat: 1609316300
+_ts_maxPlaylistLength: 1609316300
+_ts_maxWMArate: 1609316300
+_ts_mediadirs: 1609316300
+_ts_noGenreFilter: 1609316300
+_ts_noRoleFilter: 1609316300
+_ts_noupnp: 1609316300
+_ts_password: 1609316300
+_ts_persistPlaylists: 1609316300
+_ts_playlistdir: 1609316300
+_ts_playtrackalbum: 1609316300
+_ts_precacheArtwork: 1609316300
+_ts_precacheHiDPIArtwork: 1609319538
+_ts_prioritizeNative: 1609316300
+_ts_protectSettings: 1609316300
+_ts_rank-BROWSE_BY_ALBUM: 1609316300
+_ts_rank-BROWSE_BY_ARTIST: 1609316300
+_ts_rank-BROWSE_BY_GENRE: 1609316300
+_ts_rank-BROWSE_BY_YEAR: 1609316300
+_ts_rank-BROWSE_MUSIC_FOLDER: 1609316300
+_ts_rank-BROWSE_NEW_MUSIC: 1609316300
+_ts_rank-GAMES: 1609316300
+_ts_rank-PLUGIN_PICKS_MODULE_NAME: 1609316300
+_ts_rank-PLUGIN_PODCAST: 1609316300
+_ts_rank-PLUGIN_RANDOMPLAY: 1609316300
+_ts_rank-PLUGIN_RSSNEWS: 1609316300
+_ts_rank-PLUGIN_SOUNDS_MODULE_NAME: 1609316300
+_ts_rank-SAVED_PLAYLISTS: 1609316300
+_ts_rank-SEARCH: 1609316300
+_ts_ratingImplementation: 1609316300
+_ts_refreshRate: 1609316300
+_ts_registeredhandlers: 1609321119
+_ts_remotestreamtimeout: 1609316300
+_ts_reshuffleOnRepeat: 1609316300
+_ts_saveShuffled: 1609316300
+_ts_scannerPriority: 1609316300
+_ts_searchSubString: 1609316300
+_ts_securitySecret: 1609316300
+_ts_serverPriority: 1609316300
+_ts_server_uuid: 1609316300
+_ts_shortdateFormat: 1609316300
+_ts_showArtist: 1609316300
+_ts_showYear: 1609316300
+_ts_skin: 1609316300
+_ts_sn_disable_stats: 1609316300
+_ts_sn_sync: 1609316300
+_ts_splitList: 1609316300
+_ts_tcpConnectMaximum: 1609316300
+_ts_thumbSize: 1609316300
+_ts_timeFormat: 1609316300
+_ts_titleFormat: 1609316300
+_ts_titleFormatWeb: 1609316300
+_ts_udpChunkSize: 1609316300
+_ts_useTPE2AsAlbumArtist: 1609316300
+_ts_useUnifiedArtistsList: 1609316300
+_ts_username: 1609316300
+_ts_variousArtistAutoIdentification: 1609316300
+_ts_variousArtistsString: 1609321037
+_ts_webproxy: 1609321037
+_ts_wizardDone: 1609316300
+_version: 9
+allowedHosts: 172.19.0.2
+artfolder: ''
+authorize: 0
+autoDownloadUpdate: 1
+autorescan: 0
+autorescan_stat_interval: 10
+bandInArtists: 0
+bindAddress: 127.0.0.1
+browseagelimit: 100
+bufferSecs: 3
+cachedir: /config/cache
+checkVersion: 1
+checkVersionInterval: 86400
+checkVersionLastTime: 1609316335.00629
+composerInArtists: 0
+conductorInArtists: 0
+coverArt: ''
+csrfProtectionLevel: 0
+customArtSpecs:
+  300x300_f: Material Skin, iPeng 9
+dbhighmem: 1
+dbjournalsize: 50
+dbpassword: ''
+dbsource: dbi:SQLite:dbname=/config/cache/library.db
+dbusername: slimserver
+defeatDestructiveTouchToPlay: 4
+disableStatistics: 0
+disabledextensionsaudio: ''
+disabledextensionsimages: ''
+disabledextensionsplaylist: ''
+disabledextensionsvideo: ''
+disabledformats: []
+displaytexttimeout: 1
+dontTriggerScanOnPrefChange: 1
+filterHosts: 0
+groupdiscs: 1
+guessFileFormats:
+- (ARTIST - ALBUM) TRACKNUM - TITLE
+- /ARTIST/ALBUM/TRACKNUM - TITLE
+- /ARTIST/ALBUM/TRACKNUM TITLE
+- /ARTIST/ALBUM/TRACKNUM. TITLE
+httpport: 9000
+ignoreDirRE: ''
+ignoreInAudioScan: []
+ignoreInImageScan:
+- /music
+ignoreInVideoScan:
+- /music
+ignoredarticles: The El La Los Las Le Les
+insecureHTTPS: 0
+itemsPerPage: 50
+jivealbumsort: album
+language: EN
+librarycachedir: /config/cache
+libraryname: ~
+longdateFormat: '%A, %B |%d, %Y'
+maxPlaylistLength: 2500
+maxWMArate: 9999
+mediadirs:
+- /music
+noGenreFilter: 0
+noRoleFilter: 0
+noupnp: 1
+password: ''
+persistPlaylists: 1
+playlistdir: ''
+playtrackalbum: 1
+precacheArtwork: 1
+precacheHiDPIArtwork: 1
+prioritizeNative: 1
+protectSettings: 1
+rank-BROWSE_BY_ALBUM: 30
+rank-BROWSE_BY_ARTIST: 35
+rank-BROWSE_BY_GENRE: 25
+rank-BROWSE_BY_YEAR: 20
+rank-BROWSE_MUSIC_FOLDER: 10
+rank-BROWSE_NEW_MUSIC: 15
+rank-GAMES: 20
+rank-PLUGIN_PICKS_MODULE_NAME: 25
+rank-PLUGIN_PODCAST: 35
+rank-PLUGIN_RANDOMPLAY: 13
+rank-PLUGIN_RSSNEWS: 30
+rank-PLUGIN_SOUNDS_MODULE_NAME: 25
+rank-SAVED_PLAYLISTS: 5
+rank-SEARCH: 3
+ratingImplementation: LOCAL_RATING_STORAGE
+refreshRate: 30
+registeredhandlers:
+- spotify
+- pandora
+- db
+- wimp
+- slacker
+- http
+- source
+- mog
+- file
+- mms
+- playlist
+- tmp
+- classical
+- randomplay
+- icy
+- lms
+- deezer
+- teststream
+- soundcloud
+- https
+- rhapd
+- loop
+- spdr
+- linein
+remotestreamtimeout: 15
+reshuffleOnRepeat: 0
+saveShuffled: 0
+scannerPriority: 0
+searchSubString: 0
+securitySecret: b7bbfe651432709de2758f129a9fcc06
+serverPriority: ''
+server_uuid: 111c1d0b-bc10-4303-bee5-6f32f63ae367
+shortdateFormat: '%m/%d/%Y'
+showArtist: 0
+showYear: 0
+skin: Default
+sn_disable_stats: 1
+sn_sync: 1
+splitList: ;
+tcpConnectMaximum: 30
+thumbSize: 100
+timeFormat: '|%I:%M %p'
+titleFormat:
+- TITLE
+- DISC-TRACKNUM. TITLE
+- TRACKNUM. TITLE
+- TRACKNUM. ARTIST - TITLE
+- TRACKNUM. TITLE (ARTIST)
+- TRACKNUM. TITLE - ARTIST - ALBUM
+- TRACKNUM. TITLE from ALBUM by ARTIST
+- TITLE (ARTIST)
+- ARTIST - TITLE
+titleFormatWeb: 0
+udpChunkSize: 1400
+useTPE2AsAlbumArtist: 0
+useUnifiedArtistsList: 0
+username: ''
+variousArtistAutoIdentification: 1
+variousArtistsString: ~
+webproxy: ~
+wizardDone: 1

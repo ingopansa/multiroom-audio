@@ -1,0 +1,17 @@
+version: '3'
+services:
+  lms:
+    container_name: lms
+    image: lmscommunity/logitechmediaserver:8.1.0-stable
+    volumes:
+      - /Users/pansa/git/lms/config:/config:rw
+      - /Users/pansa/git/lms/music:/music:ro
+      - /Users/pansa/git/lms/playlist:/playlist:rw
+      - /etc/localtime:/etc/localtime:ro
+      # - /etc/timezone:/etc/timezone:ro
+    ports:
+      - 9000:9000/tcp
+      - 9090:9090/tcp
+      - 3483:3483/tcp
+      - 3483:3483/udp
+    restart: always

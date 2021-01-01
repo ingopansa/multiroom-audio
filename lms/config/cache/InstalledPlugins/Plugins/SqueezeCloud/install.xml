@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<extension>
+	<name>PLUGIN_SQUEEZECLOUD</name>
+	<module>Plugins::SqueezeCloud::Plugin</module>
+	<version>0.10.0</version>
+	<description>PLUGIN_SQUEEZECLOUD_DESC</description>
+	<icon>plugins/SqueezeCloud/html/images/icon.png</icon>
+	<defaultState>enabled</defaultState>
+	<targetApplication>
+		<id>SlimServer</id>
+		<minVersion>7.5</minVersion>
+    <maxVersion>*</maxVersion>
+	</targetApplication>
+  	<optionsURL>plugins/SqueezeCloud/settings/basic.html</optionsURL>
+  	<creator>Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman</creator>
+  	<email>spam+squeezebox@vijge.net</email>
+</extension>

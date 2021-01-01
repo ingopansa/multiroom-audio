@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head title="American Radioworks podcasts">
+    <expansionState></expansionState>
+  </head>
+  <body>
+      <outline URL="http://americanradioworks.publicradio.org/podcast.xml" text="American Radioworks podcasts" icon="http://americanradioworks.publicradio.org/images/arw_npr_image.jpg" type="podcast" />
+  </body>
+</opml>

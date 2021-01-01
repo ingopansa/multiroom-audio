@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head title="This American Life - free podcast">
+    <expansionState></expansionState>
+  </head>
+  <body>
+      <outline URL="http://feeds.thisamericanlife.org/talpodcast" icon="plugins/NPRRadio/html/images/talcover.png" text="This American Life - podcast" type="podcast" />
+  </body>
+</opml>
