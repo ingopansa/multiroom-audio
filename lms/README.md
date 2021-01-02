@@ -1,11 +1,9 @@
 # Prepare 
 
+## Create the docker volumes
+
 ```bash
-
-sudo useradd -r -s /sbin/nologin lms
-sudo groupadd lms
-sudo usermod -a -G lms lms
-sudo mkdir /opt/lms
-
-sudo chown -R lms:lms /opt/lms
+sudo docker volume create --name=playlist
+sudo docker volume create --name=music
+sudo docker volume create --name=config
 ```
